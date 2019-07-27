@@ -141,5 +141,9 @@ li input {
 }
 
 .priority {
-    color: #DE751F;
+    color: rgb(255, 0, 0);
+}
+
+.purchased {
+    color: rgb(34, 122, 7);
 }
